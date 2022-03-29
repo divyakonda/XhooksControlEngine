@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+!hook-api-examples/node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+.history
+# dotenv environment variables file
+.env
+.env.test
